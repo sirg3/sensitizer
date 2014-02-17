@@ -1,7 +1,7 @@
 #sensitizer
 ##Introduction
 
-sensitizer is a simply little tool that forces a program to behave as if all filesystems are case-sensitive. It's handy for testing that programs behave correctly without actually having to run OS X on a case-sensitive filesystem. 
+sensitizer is a simple little tool that forces a program to behave as if all filesystems are case-sensitive. It's handy for testing that programs behave correctly without actually having to run OS X on a case-sensitive filesystem. 
 
 ##Requirements
 
